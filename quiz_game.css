@@ -1,0 +1,16 @@
+body{
+    margin-left:10;
+    margin-top: 10%;
+
+
+}
+
+#output
+{
+    background: white;
+    border-radius: 10px;
+    border-top: 10px solid #AA3423;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
